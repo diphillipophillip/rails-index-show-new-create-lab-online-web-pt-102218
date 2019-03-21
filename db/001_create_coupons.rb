@@ -1,1 +1,5 @@
-class CreateCoupons < ActiveRecord
+class CreateCoupons < ActiveRecord::Migration 
+  
+  
+  
+end 
